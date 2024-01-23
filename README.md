@@ -215,6 +215,11 @@ root
 Now let's run our npx webpack command again and take a look at the output.
 
 Inside your dist directory thanks to our new plugin you should see an index.html file. It will look the same as your template with one exception.
+
+
+For References :
+
+https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-part-1-2mn1
 _...
 <script defer src="main.js"></script>
 ..._
