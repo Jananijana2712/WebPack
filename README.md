@@ -3,6 +3,10 @@
 
  **Instruction to Install WebPack**
 
+ Before we go for Installing WebPack lets Start with Installing Node Modules with the Command:
+
+ npm install
+
  **Prerequisites**
  You will need to have Node.js installed on your machine and available from your terminal. Installing Node will automatically install npm as well, which is what you will use to install Babel.
 
